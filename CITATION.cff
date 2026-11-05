@@ -5,7 +5,7 @@ authors:
     given-names: "Elizabeth"
     affiliation: "LMU Open Science Center"
 title: "Introduction to literate programming with Quarto"
-version: 0.0.1
+version: v1.0.0
 date-released: 2026-11-05
 repository-code: "https://github.com/lmu-osc/slides-quarto"
 url: "https://lmu-osc.github.io/slides-quarto/"
