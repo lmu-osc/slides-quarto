@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you refer to these slides, please cite them as below."
+authors:
+  - family-names: "Waterfield"
+    given-names: "Elizabeth"
+    affiliation: "LMU Open Science Center"
+title: "Introduction to literate programming with Quarto"
+version: 0.0.1
+date-released: 2026-11-05
+repository-code: "https://github.com/lmu-osc/slides-quarto"
+url: "https://lmu-osc.github.io/slides-quarto/"
